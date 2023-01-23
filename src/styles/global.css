@@ -7,9 +7,9 @@ body {
 	font-family: Verdana, sans-serif;
 	margin: auto;
 	padding: 20px;
-	max-width: 65ch;
+	max-width: 75ch;
 	text-align: left;
-	background-color: #fff;
+	background-color: rgb(255, 255, 255);
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	line-height: 1.5;

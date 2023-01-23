@@ -1,17 +1,47 @@
 ---
-layout: "../layouts/BlogPost.astro"
-title: "About Me"
-description: "Lorem ipsum dolor sit amet"
-updatedDate: "August 08 2022"
-heroImage: "/placeholder-about.jpg"
+layout: '../layouts/BlogPost.astro'
+title: 'About Me'
+description: 'About Me'
+updatedDate: 'January 21 2023'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+<style is:global>
+	html {
+		background-color: #17284d;
+	}
+</style>
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Hello, My name is Victor, and I am a tech enthusiast. Ever since I was gifted a
+desktop computer as a child, my curiosity of technology grew. I'd spent hours
+playing online RPG games that I did not find it too challenging after a few
+weeks. So I started looking into what I could possibly change to my newly
+acquired desktop computer and make it more personal. I was changing
+administrator settings so only I was able to access the computer, but that was
+only setting up a password to the log in screen. At that point, I was feeling
+more excited on being able to figure things out on my own. I moved on to the
+network portion of the computer system and looking into the IP address, Security
+and Firewall levels. I became so excited with technology that I started to read
+about the latest technologies that were being created at the time.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Throughout the years, I was more tech savvy than anyone in the family that I
+would be contacted for any computer issues that I may be able to help with. I
+would get excited to receive any electronics as a birthday gift because I would
+want to incorporate it to my daily routine.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Once I made into the college at Augsburg University in Minneapolis, Minnesota, I
+was studying towards a Bachelor Degree in Computer Science. During the same time
+I was in the U.S Army. Towards the end of my Junior year at Augsburg University,
+I was given orders to Deploy to the Middle East and spent the year out of
+college. Once returning back to the states, I decided to give myself a break
+before heading back to school. During the process of setting up my return to
+school -- Covid-19 struck. I decided not to head to school and decided to look
+after the care of my family. Few years went by and the idea of me heading back
+to school become less possible as the material held from the years of school was
+no longer recognizable.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+I did not give up and found the opportunity to attend Prime Digital Academy and
+be able to learn so many new skills that I have not obtained through the 3 years
+of college. I feel like was back on the pedestal to be able to fullfil my dream
+in acquiring a job as a Software Engineer.
+
+Never Give Up...
