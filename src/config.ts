@@ -13,7 +13,7 @@ about: "Currently partaking in a 20 week course at Prime Digital Academy, curren
 export const workHistoryInfo = {
 experience: [
 {
-name: "Prime Digital Experience",
+name: "Prime Digital Academy",
 position: "Student Software Engineer",
 location: "Minneapolis, Minnesota",
 description: "A 20 week accelerated program with emerging skills sets to prepare individuals for the Tech Industry in Software Development.",
